@@ -150,7 +150,7 @@ module.exports = context => {
                 console.log('Use Swift language version', swiftVersion);
               } else {
                 xcodeProject.updateBuildProperty('SWIFT_VERSION', '5.5', buildConfig.name);
-                console.log('Update SWIFT version to 5.0', buildConfig.name);
+                console.log('Update SWIFT version to 5.5!', buildConfig.name);
               }
             }
 
