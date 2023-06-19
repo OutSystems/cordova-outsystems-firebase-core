@@ -8,6 +8,9 @@ The changes documented here do not include those from the original repository.
 
 ## [Unreleased]
 
+### 2021-05-09
+- Remove the hooks to read the (now unneeded) .zip files (https://outsystemsrd.atlassian.net/browse/RMET-2451)
+
 ## [1.0.1]
 
 ### 2021-05-09
